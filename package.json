@@ -1,0 +1,26 @@
+{
+  "name": "learning-sequelizejs",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-by-practice/learning-sequelizejs.git"
+  },
+  "keywords": [
+    "SQL",
+    "MYSQL",
+    "Sequalize",
+    "Sequalize-ORM",
+    "ORM"
+  ],
+  "author": "Ashwin Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Code-by-practice/learning-sequelizejs/issues"
+  },
+  "homepage": "https://github.com/Code-by-practice/learning-sequelizejs#readme",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "sequelize": "^3.23.6"
+  }
+}
