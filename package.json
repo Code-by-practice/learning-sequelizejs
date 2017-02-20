@@ -13,7 +13,7 @@
     "Sequalize-ORM",
     "ORM"
   ],
-  "author": "Ashwin Hegde",
+  "author": "Ashwin Hegde <ashwin.hegde3@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Code-by-practice/learning-sequelizejs/issues"
@@ -21,6 +21,6 @@
   "homepage": "https://github.com/Code-by-practice/learning-sequelizejs#readme",
   "dependencies": {
     "mysql": "^2.11.1",
-    "sequelize": "^3.23.6"
+    "sequelize": "^3.30.2"
   }
 }
